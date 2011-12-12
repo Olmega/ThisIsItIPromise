@@ -1,0 +1,83 @@
+<style type="text/css">
+body {
+	background-color: #CCFFFF;
+}
+section {
+	margin-top: 1em;
+	font-size: 120%;
+	padding: 20px;
+	background-color: #FFCC66;
+
+}
+.container {
+width: 710px;
+}
+body {
+	background-color: #66CCFF;
+}	
+a {
+color: #09c;
+text-decoration: none;
+}
+
+a:hover {
+color: #069;
+text-decoration: underline;
+}
+
+a:visited {
+color: #069;
+}
+nav ul li {
+list-style-type: none;
+display: inline-block;
+padding: 0.2em 0;
+}
+nav ul {
+margin: 0px;
+padding: 0px;
+}
+nav {
+	background-color: #FFFF66;
+	min-height: 300px;
+	width: 100px;
+}
+/*#temp {
+	position:relative;
+}
+*/
+/*footer{
+	background-color: #FFCC00;
+	height: 40px;
+	/*position: relative;
+	top: 0px;
+	
+}
+*/
+.round {
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+}
+
+a.signup_button{
+margin-left: auto;
+margin-right: auto;
+display: block;
+text-align: center;
+width: 190px;
+color: #fff;
+background: #005400;
+font-size: 150%;
+font-weight: bold;
+padding: 20px;
+}
+footer {
+text-align: center;
+margin-top: 10px;
+width: 710px;
+margin-left: auto;
+margin-right: auto;
+}
+
+</style>
